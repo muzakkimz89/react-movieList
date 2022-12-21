@@ -1,0 +1,35 @@
+.myBG{
+    height: 100vh;
+    background: url("../assets/bg/scifi.jpg");
+    background-size : cover;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending{
+    height:auto;
+    background: url("../assets/bg/spiderman.jpg");
+    background-size: cover;
+}
+
+.image{
+    height: 400px;
+}
+
+.allMovie{
+    height:auto;
+    background-color: rgb(75, 74, 74);
+    background-size: cover;
+
+}
+
